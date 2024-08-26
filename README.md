@@ -57,4 +57,4 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 - Tell me about history (vague)
-- Tell me the history of ancient Ghana (Improved prompt):This is clearer, more specific and concise & hence, more effective to get the desired answer from the bot.
+- Tell me the history of ancient Ghana (Improved prompt):This is clearer, more specific and concise. Hence, more effective to get the desired answer from the bot.
